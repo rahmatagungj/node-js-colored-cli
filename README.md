@@ -1,7 +1,7 @@
 # node-js-colored-cli
 Beautifull colored cli
 
-# Usage
+## Usage
 ```js
 const colored = require("./colored")
 
